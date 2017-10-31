@@ -18,9 +18,13 @@ Lightweight social icons Widget for WordPress
 3. In your Widgets menu, simply drag the widget labeled "Social Icons Lite" into a widget area.
 4. Configure the social networks with it's settings.
 
+Please visit our official page for <a href="http://docs.themeegg.com/docs/social-icons-lite/" target="_blank">Documentation and more information</a>.
+
+Get free support at http://themeegg.com/support-forum/
+
 == Frequently Asked Questions ==
 
 == Changelog ==
 
-**1.0.0 - 10/27/2017**
+**1.0.0 - 10/31/2017**
 - Initial release
