@@ -67,7 +67,7 @@ class Social_Icons_Lite_Widget extends WP_Widget {
 			'vimeo'                  => '',
 			'youtube'                => '',
 		) );
-		$symbol_url     = ( SIL_PLUGIN_URL . 'symbol-defs.svg' );
+		$symbol_url     = ( SIL_PLUGIN_URL . 'assets/icons/symbol.svg' );
 
 		/**
 		 * Social profile choices.
