@@ -2,8 +2,8 @@
 Contributors: themeegg
 Tags: social, media, social icons, icons, profile
 Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: 1.0.1
+Tested up to: 4.9
+Stable tag: 1.0.2
 
 Lightweight social icons Widget for WordPress
 
@@ -26,8 +26,11 @@ Get free support at http://themeegg.com/support-forum/
 
 == Changelog ==
 
-**1.0.0 - 10/31/2017**
-- Initial release
+**1.0.1 - 11/14/2017**
+- Version compatibility testing
 
 **1.0.1 - 11/04/2017**
 - Icon issue fixed
+
+**1.0.0 - 10/31/2017**
+- Initial release
