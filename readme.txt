@@ -26,7 +26,7 @@ Get free support at http://themeegg.com/support-forum/
 
 == Changelog ==
 
-**1.0.1 - 11/14/2017**
+**1.0.2 - 11/14/2017**
 - Version compatibility testing
 
 **1.0.1 - 11/04/2017**
